@@ -1,0 +1,1 @@
+Very Academy Django Ecommerce Project Tutorial
